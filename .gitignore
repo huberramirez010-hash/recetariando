@@ -1,0 +1,5 @@
+config/spoonacular.php
+config/database.php
+*.log
+.env
+Thumbs.db
